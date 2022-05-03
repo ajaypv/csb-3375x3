@@ -1,0 +1,2 @@
+.car{position:relative;background-color:brown;width:65px;transition:-webkit-transform 1s;transition:transform 1s;transition:transform 1s,-webkit-transform 1s}.car:hover{-webkit-transform:rotate(1turn);transform:rotate(1turn)}.App{font-family:sans-serif;text-align:center}.eren{position:relative;background-color:brown;width:65px;-webkit-animation:eren1 5s infinite;animation:eren1 5s infinite}@-webkit-keyframes eren1{0%{width:200px}to{width:400px}}@keyframes eren1{0%{width:200px}to{width:400px}}
+/*# sourceMappingURL=main.55c3ad0e.chunk.css.map */
